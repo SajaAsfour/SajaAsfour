@@ -27,7 +27,11 @@ Hello! I'm **Saja Asfour**, a fourth year **Computer Engineering Student at Birz
 - **Doctor Profile Management App** ([GitHub Repo](https://github.com/SajaAsfour/Flutter-Doctor-Profile))
 - **Counter App with Flutter** ([GitHub Repo](https://github.com/SajaAsfour/Flutter-1))
 - **Login Page App** ([GitHub Repo](https://github.com/SajaAsfour/Flutter-3))
-- **and another that you can see in my profile**
+- **Flutter Home Page App** ([GitHub Repo](https://github.com/SajaAsfour/Flutter-2))
+- **Flutter Login Page with Toast Notifications** ([GitHub Repo](https://github.com/SajaAsfour/Flutter-Login-Page-with-Toast-Notifications))
+- **Flutter BMI Calculator** ([GitHub Repo](https://github.com/SajaAsfour/Flutter-BMI-Calculator))
+- **taskati** ([GitHub Repo](https://github.com/SajaAsfour/Taskati-App-Flutter))
+- **Food Explorer App** ([GitHub Repo](https://github.com/SajaAsfour/Food-Delivery-App-Flutter))
   
 ### 🏥 **Artificial Intelligence & Machine Learning**
 - **Arabic Handwritten Text Recognition (CNN, Transfer Learning)**
