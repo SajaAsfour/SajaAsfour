@@ -34,6 +34,15 @@ Hello! I'm **Saja Asfour**, a fourth year **Computer Engineering Student at Birz
 - **Optimizing Job Shop Scheduling using Genetic Algorithm**
 - **Noise Removal from ECG Signals using Adaptive Filters**
 
+## 🚀 Languages, Frameworks & Tools
+- **Languages:** Python, C, C++, Java, Dart, JavaScript, SQL, Verilog
+- **Frameworks & Libraries:** Flask, Flutter, TensorFlow, OpenCV, Pandas, NumPy
+- **Tools & Platforms:** Git, GitHub, Docker, Postman, Arduino, Quartus, Cisco Packet Tracer
+
+## 📊 GitHub Stats
+![Saja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajaAsfour&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajaAsfour&layout=compact&theme=radical)
+
 ## 📌 How to Reach Me
 - **GitHub:** [SajaAsfour](https://github.com/SajaAsfour)
 - **LinkedIn:** [Saja Asfour](https://www.linkedin.com/in/saja-asfour-931048320/)
