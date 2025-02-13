@@ -37,7 +37,7 @@ Hello! I'm **Saja Asfour**, a fourth year **Computer Engineering Student at Birz
 ## 📌 How to Reach Me
 - **GitHub:** [SajaAsfour](https://github.com/SajaAsfour)
 - **LinkedIn:** [Saja Asfour](https://www.linkedin.com/in/saja-asfour-931048320/)
-- **Email:** [sajanazih2004@gmail.com](sajanazih2004@gmail.com)
+- **Email:** sajanazih2004@gmail.com
 
 ## 📜 License
 Feel free to explore my work and use it for educational purposes. If you find something useful, please give proper credit. 😊
