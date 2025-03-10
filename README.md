@@ -32,6 +32,7 @@ Hello! I'm **Saja Asfour**, a fourth year **Computer Engineering Student at Birz
 - **Flutter BMI Calculator** ([GitHub Repo](https://github.com/SajaAsfour/Flutter-BMI-Calculator))
 - **taskati** ([GitHub Repo](https://github.com/SajaAsfour/Taskati-App-Flutter))
 - **Food Explorer App** ([GitHub Repo](https://github.com/SajaAsfour/Food-Delivery-App-Flutter))
+- **User Management App** ([GitHub Repo](https://github.com/SajaAsfour/User-Management-App))
   
 ### 🏥 **Artificial Intelligence & Machine Learning**
 - **Arabic Handwritten Text Recognition (CNN, Transfer Learning)**
